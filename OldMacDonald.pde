@@ -1,6 +1,12 @@
 
 void setup()
 {
-	//your variable declarations here
+	Farm MacDonald = new Farm ();
+    MacDonald.animalSounds();
 }
 
+void draw(){
+	
+
+
+}
